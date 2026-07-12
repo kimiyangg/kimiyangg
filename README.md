@@ -26,7 +26,6 @@
 
 🎓 Computer Science student at the **National University of Singapore**, passionate about turning ideas into real, shippable products.
 🛠️ I love **mobile & full-stack development**, and I tinker with **stock analysis** on the side.
-💬 Ask me about **Flutter, full-stack web, or hackathon life**.
 ⚡ Fun fact: I enjoy building things people actually use.
 
 </div>
