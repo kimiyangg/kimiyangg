@@ -1,37 +1,28 @@
-<div align="center">
+# Kimi Yang
 
-# Hi, I'm Kimi 👋
+Computer Science at the National University of Singapore. Mostly mobile app
+development, with a growing interest in robotics.
 
-<a href="https://github.com/kimiyangg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=460&lines=Software+Engineering+Student;Mobile+%2B+Web+Developer;Always+shipping+something+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-<p>
-  <a href="https://www.linkedin.com/in/kimi-yang-chen-yen/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:kimiyang951116@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/kimiyangg">
-    <img src="https://komarev.com/ghpvc/?username=kimiyangg&label=Profile%20views&color=7AA2F7&style=for-the-badge" alt="Profile views" />
-  </a>
-</p>
-
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-🎓 Computer Science student at the **National University of Singapore**, passionate about turning ideas into real, shippable products.
-🛠️ I love **mobile & full-stack development**, and I tinker with **stock analysis** on the side.
-⚡ Fun fact: I enjoy building things people actually use.
-
-</div>
+**[kimiyang.dev](https://kimiyang.dev)** &nbsp;·&nbsp;
+[LinkedIn](https://www.linkedin.com/in/kimi-yang-chen-yen/) &nbsp;·&nbsp;
+[kimiyang951116@gmail.com](mailto:kimiyang951116@gmail.com)
 
 ---
 
 <div align="center">
-  <i>Thanks for stopping by! ⭐️</i>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kimiyangg&theme=github_dark" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kimiyangg&theme=github" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kimiyangg&theme=github_dark" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kimiyangg&theme=github" alt="Most used languages" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=kimiyangg&hide_border=true&background=00000000&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&currStreakLabel=8b949e&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" />
+  <img height="195" src="https://streak-stats.demolab.com?user=kimiyangg&hide_border=true&background=00000000&stroke=d0d7de&ring=0969da&fire=0969da&currStreakNum=24292f&currStreakLabel=57606a&sideNums=24292f&sideLabels=57606a&dates=57606a" alt="Contribution streak" />
+</picture>
+
 </div>
