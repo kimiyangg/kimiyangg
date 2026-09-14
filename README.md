@@ -3,9 +3,10 @@
 Computer Science at the National University of Singapore. Mostly mobile app
 development, with a growing interest in robotics.
 
-**[kimiyang.dev](https://kimiyang.dev)** &nbsp;·&nbsp;
-[LinkedIn](https://www.linkedin.com/in/kimi-yang-chen-yen/) &nbsp;·&nbsp;
-[kimiyang951116@gmail.com](mailto:kimiyang951116@gmail.com)
+[![kimiyang.dev](https://img.shields.io/badge/kimiyang.dev-555555?style=for-the-badge)](https://kimiyang.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kimi-yang-chen-yen/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimiyang951116@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=kimiyangg&label=Profile%20views&color=7AA2F7&style=for-the-badge)
 
 ---
 
